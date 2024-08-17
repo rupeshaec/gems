@@ -161,8 +161,8 @@
                 "template": {
                   "name": "Teaser",
                   "model": "teaser",
-                  "forground_title":"Teaser",
-                  "forground_titleType":"h2"
+                  "foreground_title":"Teaser",
+                  "foreground_titleType":"h2"
                 }
               }
             }

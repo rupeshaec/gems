@@ -162,7 +162,7 @@
                   "name": "Teaser",
                   "model": "teaser",
                   "foreground_title":"Teaser",
-                  "foreground_titleType":"h2"
+                  "foreground_titleType":"h3"
                 }
               }
             }
